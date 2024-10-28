@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator Currency</string>
+    <string-array name="currencies_array">
+        <item>VND</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>CNY</item>
+    </string-array>
+</resources>
